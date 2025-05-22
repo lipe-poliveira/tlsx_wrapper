@@ -7,7 +7,7 @@ This script requires the following tools:
 
 [tlsx](https://github.com/projectdiscovery/tlsx) — TLS certificate scanner.
 
-[jq](https://github.com/jqlang/jq) — JSON parser.
+[jq](https://github.com/jqlang/jq) — JSON parser. [I recommend installing jq here ->](https://dspyt.medium.com/installing-jq-to-parse-json-52b19b7e2a2c)
 
 [anew](https://github.com/tomnomnom/anew) — deduplication utility.
 
