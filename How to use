@@ -1,0 +1,11 @@
+How to Use
+1. Clone the repository:
+git clone https://github.com/yourusername/tlsx-wrapper.git
+cd tlsx-wrapper
+chmod +x tlsx_wrapper.sh
+
+2. Run for a single URL:
+./tlsx_wrapper.sh -u target.com
+
+3. Run for a list of subdomains:
+./tlsx_wrapper.sh -l subdomains.txt
