@@ -12,7 +12,7 @@ This script requires the following tools:
 [anew](https://github.com/tomnomnom/anew) — deduplication utility.
 
 
-**How to Use
+**How to Use**
 ```
 1. Clone the repository:
 git clone https://github.com/yourusername/tlsx-wrapper.git
