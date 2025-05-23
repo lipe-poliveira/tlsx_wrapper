@@ -1,5 +1,6 @@
 🛡️ tlsx-wrapper
 Simple Shell script for extracting TLS Subject Alternative Names (SANs) using tlsx, with support for single URLs and lists, plus automatic deduplication.
+
 ✅ Dependencies
 This script requires the following tools:
 
